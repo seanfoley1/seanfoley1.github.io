@@ -32,3 +32,18 @@ main {
 ul>li {
     font-size: large;
 }
+.dropdown-divider {
+    border-top: 1px solid grey !important;
+}
+.dropdown-menu {
+    background-color: #f8f9fa !important;
+    border: 0 !important;
+    width: auto !important;
+    min-width: 0 !important;
+}
+.dropdown-item {
+    width: auto !important;
+    min-width: 0 !important;
+    font-size: large !important;
+    /* color: rgb(156, 174, 40) !important; */
+}
